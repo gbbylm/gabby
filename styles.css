@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+    font-size: 45pt;
+    color: #995e7a;
+    margin-bottom: 5px;
+    text-decoration: wavy;
+    font-family: "College Block";
+}
+IMG {
+}
+
+h3 {
+    text-align: left;
+    font-size: 25pt;
+    color: #149599;
+    margin-bottom: 5px;
+    text-decoration: bold;
+    font-family: "Droid Sans" ;
+}
+.center{
+
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+    width: 80%;
+}
+
+h4{
+    text-align: center;
+    font-size: 15pt;
+    color: #995e7a;
+    margin-bottom: 5px;
+    text-decoration: wavy;
+    font-family: Georgia ;
+    display: inline-block;
+    border: 2px solid #ff3c41;
+}
+border {
+    .center;
+}
